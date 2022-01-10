@@ -1,0 +1,26 @@
+{
+  "postalCode": "17463",
+  "products": [
+
+    {
+      "productId": 1,
+      "name": "Apple",
+      "deliveryDays": [
+        5,
+        4
+      ],
+      "productType": 1,
+      "daysInAdvance": 8
+    },
+    {
+      "productId": 1,
+      "name": "Apple",
+      "deliveryDays": [
+        5,
+        3
+      ],
+      "productType": 2,
+      "daysInAdvance": 5
+    }
+  ]
+}

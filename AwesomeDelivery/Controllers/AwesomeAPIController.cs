@@ -54,7 +54,7 @@ namespace AwesomeDelivery.Controllers
             }
             catch(Exception ex)
             {
-                return Json(ex.Message);
+                return Json("Something Went Wrong!");
             }
         }
 
